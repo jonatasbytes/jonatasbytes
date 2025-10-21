@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey, I'm Jonatas
 
-<!--
-**jonatasbytes/jonatasbytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I love programming, engineering, eletronics and computing. Always learning something new.
 
-Here are some ideas to get you started:
+### 💭 Philosophy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Understanding how things work. Building systems that scale.  
+> Deep work. RTFSC. Learning in public.
+
+*Self-taught. No limits.*
+
+---
+
+### 📫 Connect
+
+Telegram: @adorabat • Open to: Job opportunities, code reviews, tech talks
+
+---
