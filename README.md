@@ -1,18 +1,11 @@
-# 👋 Hey, I'm Jonatas
+# Hi, I'm [Your Name]
 
-> I love programming, engineering, eletronics and computing. Always learning something new.
+Low-level / systems developer. Interested in Linux kernel, embedded systems, and Rust.
 
-### 💭 Philosophy
+## Stack
 
-> Understanding how things work. Building systems that scale.  
-> Deep work. RTFSC. Learning in public.
+`C` · `Rust` · `Assembly` · `Linux`
 
-*Self-taught. No limits.*
+## Contact
 
----
-
-### 📫 Connect
-
-Telegram: @adorabat • Open to: Job opportunities, code reviews, tech talks
-
----
+Open to talk about kernels, systems programming, or Rust internals.
