@@ -1,10 +1,10 @@
 # Hi, I'm Jônatas!
 
-Low-level / systems developer. Interested in Linux kernel, embedded systems, and Rust.
+Low-level / systems developer. Interested in Linux kernel, embedded systems, Rust and general tech.
 
 ## Stack
 
-`C` · `Rust` · `Assembly` · `Linux`
+`C` · `Rust` · `Assembly` · `Linux`· `C#`
 
 ## Contact
 
